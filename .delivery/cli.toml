@@ -1,0 +1,7 @@
+api_protocol = "https"
+enterprise = "mpgoetz"
+git_port = "8989"
+organization = "mpgoetz"
+pipeline = "master"
+server = "52.33.48.110"
+user = "mpgoetz"
